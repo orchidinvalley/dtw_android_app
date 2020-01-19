@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+    <TextView
+        android:id="@+id/customize_kw_item_txt"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center_vertical"
+        />
+    <ImageView
+        android:id="@+id/customize_kw_item_play"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:padding="8dp"
+        android:src="@drawable/float_view_play"
+        />
+    <ImageView
+        android:id="@+id/customize_kw_item_del"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:padding="8dp"
+        android:src="@drawable/kw_del"
+        />
+
+</LinearLayout>

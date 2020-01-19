@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/snowboy" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/AppResCopy.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/Constants.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/MsgEnum.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/WaveFileReader.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/audio/AudioDataReceivedListener.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/audio/Dtw_check.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/audio/Mfcc_new.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dtw_asr/audio/PlaybackThread.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jni/Spl.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jni/fft.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="ISO-8859-1" />
+  </component>
+</project>
